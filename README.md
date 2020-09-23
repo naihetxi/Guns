@@ -7,9 +7,6 @@
         <br>      
         <br>      
         <span>
-            <span>
-                Guns官方交流群：254550081(满)   684163663(满)   207434260(满)(三个群已满，扫下方二维码加官方微信群)
-            </span>
         </span>
         <br>
         <br>
@@ -43,15 +40,6 @@
 
 配套课件：[https://gitee.com/stylefeng/Guns-Guide](https://gitee.com/stylefeng/Guns-Guide)
 
-### 扫码关注官方公众号和官方微信群
-<table>
-    <tr>
-        <td>官方公众号</td>
-        <td><img src="https://images.gitee.com/uploads/images/2019/0415/104911_9bc924a5_551203.png" width="120"/></td>
-        <td>扫码邀请入群</td>
-        <td><img src="https://images.gitee.com/uploads/images/2019/0419/103622_d6e9fa5d_551203.png" width="120"/></td>
-    </tr>
-</table>
 
 ### 最新6.0更新内容如下(更新日期2019.10.25)
 
